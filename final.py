@@ -165,8 +165,12 @@ def main():
     st.title("Email Automation System")
 
     # Default credentials
-    sender_email = "datanyx.ai@gmail.com"
-    sender_password = "nunx tjqo ubpy jhtq"
+    #sender_email = "datanyx.ai@gmail.com"
+    #sender_password = "nunx tjqo ubpy jhtq" #app password for datanyx.ai@gmail.com
+    
+    sender_email = "ai.datanyx@gmail.com"
+    sender_password = "ydgw ovlz tjdk recb" #app password for ai.datanyx@gmail.com
+    
 
     # Debug mode checkbox
     debug_mode = st.checkbox("Enable Debug Mode")
